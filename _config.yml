@@ -1,4 +1,7 @@
 theme: jekyll-theme-midnight
 
+title: TetraMeet
+description: Landing Page for TetraMeet
+
 github:
   is_project_page: false
