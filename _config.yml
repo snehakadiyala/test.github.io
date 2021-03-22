@@ -1,7 +1,5 @@
+title: Midnight theme
+description: Midnight is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-midnight
-
-title: TetraMeet
-description: Landing Page for TetraMeet
-
-github:
-  is_project_page: false
