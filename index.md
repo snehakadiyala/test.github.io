@@ -2,10 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
 # WHY IT MATTERS
 
 
@@ -14,33 +10,33 @@ Tetrameet wants to increase the equity of workplace communication. According to 
 
 # BASIC USER GUIDE
 
-
+<br/>
 
 #### **Step 1:** 
 
 Add your online meeting across all tele-work platforms to our user dashboard and start our custom automated conversation analyzer: _Tetra_
 
 
-#### **Step 2: ** 
+#### **Step 2:** 
 
 Have a successful and productive meeting while Tetra passively monitors communication. 
 
 
-#### **Step 3: ** 
+#### **Step 3:** 
 
 Check our reports page for feedback on user and meeting participation and equity statistics. 
 
 
-#### **Step 4: ** 
+#### **Step 4:** 
 
 Use the feedback to incrementally improve company culture and make a safer and more equitable space.
 
 
 # How It Works 
 <br/>
-After **STEP 2**, we start our real work. 
+After Step 2, we start our analysis. 
 
-First Tetra takes the meeting recording and analyzes it using the _Speaker Diarization API_ from Google's Speech API Set. We also run it through our propietary model to separately determine whether speaker changes were productive or interruptive. 
+First, Tetra takes the meeting recording and analyzes it using the _Speaker Diarization API_ from Google's Speech API Set. We also run it through our own model to separately determine whether speaker changes were productive or interruptive. 
 
 
 Compiling the speaker variance, speaker timings, and interruption information, we produce a meeting report and over time generate a complete picture of the equity of workplace conversations. 
@@ -48,9 +44,10 @@ Compiling the speaker variance, speaker timings, and interruption information, w
 
 ### Large image
 
+<div>
 <img src="./images/logo.png">
-
-
+<div/>
+  
 ### Definition lists can be used with HTML syntax.
 
 <dl>
