@@ -6,32 +6,32 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-# Why We Matter
+# WHY IT MATTERS
 
-<br/>
 
 Tetrameet wants to increase the equity of workplace communication. According to both expert research and collected personal experiences, overwhelming amounts of minority and women employees have felt a communication imbalance while participating in workplace meetings. As these meetings are the heart of any company, and even more crucial as we've transitioned to online work, this inequal participation can hurt these employees' progress in their careers as well as the companies' bottom line.
 
 
-# Basic User Guide
+# BASIC USER GUIDE
 
 
-## **STEP 1** 
+
+#### **Step 1:** 
 
 Add your online meeting across all tele-work platforms to our user dashboard and start our custom automated conversation analyzer: _Tetra_
 
 
-## **STEP 2** 
+#### **Step 2: ** 
 
 Have a successful and productive meeting while Tetra passively monitors communication. 
 
 
-## **STEP 3** 
+#### **Step 3: ** 
 
 Check our reports page for feedback on user and meeting participation and equity statistics. 
 
 
-## **STEP 4** 
+#### **Step 4: ** 
 
 Use the feedback to incrementally improve company culture and make a safer and more equitable space.
 
@@ -48,7 +48,7 @@ Compiling the speaker variance, speaker timings, and interruption information, w
 
 ### Large image
 
-![Tetra](/images/logo.png)
+<img src="./images/logo.png">
 
 
 ### Definition lists can be used with HTML syntax.
