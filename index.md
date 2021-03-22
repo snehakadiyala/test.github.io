@@ -28,7 +28,7 @@ Check our reports page for feedback on user and meeting participation and equity
 Use the feedback to incrementally improve company culture and make a safer and more equitable space.
 
 
-# How It Works 
+# HOW IT WORKS
 <br/>
 After Step 2, we start our analysis. 
 
