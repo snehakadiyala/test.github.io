@@ -6,99 +6,28 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# Why We Matter
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Tetrameet wants to increase the equity of workplace communication. According to both expert research and collected personal experiences, overwhelming amounts of minority and women employees have felt a communication imbalance while participating in workplace meetings. As these meetings are the heart of any company, and even more crucial as we've transitioned to online work, this inequal participation can hurt these employees' progress in their careers as well as the companies' bottom line.
 
-# Header 1
+# Basic User Guide
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**STEP 1** Add your online meeting across all tele-work platforms to our user dashboard and start our custom automated conversation analyzer: _Tetra_
 
-## Header 2
+**STEP 2** Have a successful and productive meeting while Tetra passively monitors communication. 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**STEP 3** Check our reports page for feedback on user and meeting participation and equity statistics. 
 
-### Header 3
+**STEP 4** Use the feedback to incrementally improve company culture and make a safer and more equitable space. 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## How It Works 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+After **STEP 2**, we start our real work. First Tetra takes the meeting recording and analyzes it using the _Speaker Diarization API_ from Google's Speech API Set. We also run it through our propietary model to separately determine whether speaker changes were productive or interruptive. Compiling the speaker variance, speaker timings, and interruption information, we produce a meeting report and over time generate a complete picture of the equity of workplace conversations. 
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Tetra](./images/logo.png)
 
 
 ### Definition lists can be used with HTML syntax.
