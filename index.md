@@ -16,27 +16,27 @@ Tetrameet wants to increase the equity of workplace communication. According to 
 # Basic User Guide
 
 
-**STEP 1** 
+## **STEP 1** 
 
 Add your online meeting across all tele-work platforms to our user dashboard and start our custom automated conversation analyzer: _Tetra_
 
 
-**STEP 2** 
+## **STEP 2** 
 
 Have a successful and productive meeting while Tetra passively monitors communication. 
 
 
-**STEP 3** 
+## **STEP 3** 
 
 Check our reports page for feedback on user and meeting participation and equity statistics. 
 
 
-**STEP 4** 
+## **STEP 4** 
 
 Use the feedback to incrementally improve company culture and make a safer and more equitable space.
 
 
-## How It Works 
+# How It Works 
 <br/>
 After **STEP 2**, we start our real work. 
 
